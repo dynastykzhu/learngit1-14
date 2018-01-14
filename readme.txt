@@ -6,5 +6,7 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 123345
 Creating a new branch is quick and simple.
-222
-3
+<<<<<<< HEAD
+222111
+ºÃÁË
+>>>>>>> 650bbc4d986fd52025236145a11e46f1fed85190
